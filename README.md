@@ -28,6 +28,10 @@ This portfolio is engineered using modern frontend tools and libraries to ensure
 
 ---
 
+Live preview
+
+https://portfolio-seven-rust-69.vercel.app/
+
 ## 🚀 Local Installation & Setup
 
 Follow these steps to clone the repository and spin up the development server on your machine:
