@@ -15,6 +15,7 @@ This portfolio is engineered using modern frontend tools and libraries to ensure
 * **Typed.js:** Powers interactive, dynamic typing animations on the hero sections.
 * **Particles.js:** Integrates smooth, responsive background particle networks for an immersive visual layer.
 * **React CountUp:** Creates asynchronous, animated numerical counters for displaying milestones.
+* **Contact Form with useReducer** + EmailJS integration
 
 ---
 

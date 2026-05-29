@@ -100,7 +100,7 @@ function Home() {
             <h2 style={{ textAlign: "center", margin: "60px 0 30px" }}>Projects</h2>
             <Projects /><br />
             <h2 style={{ textAlign: "center", margin: "60px 0 30px" }}>Contact me</h2>
-            <div style={{ marginLeft: "60px" }}>
+            <div style={{ display:"flex",justifyContent:"center",backgroundColor:"#1e1e1e",border:"none"}} className='form-control'>
                 <Contact />
             </div>
         </>
